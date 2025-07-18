@@ -47,6 +47,3 @@
   </a>
 </p>
 
-<p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=Sakshi72004)
-</p>

@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshipawar72004/">
+  <a href="https://www.linkedin.com/in/SakshiiPawar07/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:sakshipawar72004@gmail.com">

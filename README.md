@@ -3,11 +3,11 @@
 <h3 align="center">💻 Java Developer | MERN Stack Enthusiast | Computer Engineering Student</h3>
 
 <p align="center">
-  📍 Pune, India • 🎓 Trinity College of Engineering <br>
+  📍 Pune, India • 🎓 Trinity College of Engineering and Research, Pune <br>
   📧 sakshipawar72004@gmail.com • 🌐 <a href="https://github.com/Sakshi72004">github.com/Sakshi72004</a>
 </p>
 
----
+
 
 ### 🚀 Tech Stack
 <p align="center">
@@ -21,14 +21,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
----
+
 
 ### 🛠️ Recent Projects
 - 💰 **Personal Finance Manager** – Expense tracker built with MERN stack  
 - 🏥 **HealthConnect** – Hospital booking system using PHP & MySQL  
 - 🚗 **Car Rental Site** – Responsive UI for renting vehicles  
 
----
+
 
 ### 📈 GitHub Stats
 <p align="center">

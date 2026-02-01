@@ -1,29 +1,35 @@
-## Hi 👋, I'm Sakshi Pawar  
+<h1 align="center">Hi 👋, I'm Sakshi Pawar</h1>
+<h3 align="center">💻 Full Stack Web Developer | Java Developer | MERN Stack Enthusiast</h3>
 
-🚀 **Full Stack Web Developer | Java Developer | Problem Solver | Open Source Enthusiast**
+<p align="center">
+  📍 Pune, India <br>
+  📧 <a href="mailto:sakshipawar72004@gmail.com">sakshipawar72004@gmail.com</a> <br>
+  🌐 <a href="https://github.com/Sakshi72004">GitHub</a> • 
+  💼 <a href="https://www.linkedin.com/in/SakshiiPawar07/">LinkedIn</a>
+</p>
 
 ---
 
 ## 💻 About Me  
-I'm a passionate **Computer Engineering student** who loves building **scalable, user-friendly web applications** and solving real-world problems through code.
+I’m a passionate **Computer Engineering student** focused on building **robust, scalable, and user-centric web applications** using modern technologies.
 
-🔹 Strong experience in **MERN Stack** (MongoDB, Express, React, Node.js)  
-🔹 Solid backend development using **PHP & MySQL**  
-🔹 Proficient in **Java** with good understanding of **Data Structures & Algorithms**  
-🔹 Active on GitHub, continuously learning and experimenting with new technologies  
-
----
-
-## 🎯 What I’m Currently Learning & Building  
-🚀 Exploring advanced **React & MERN architecture**  
-🤖 Learning how to integrate **AI-powered features** into web apps  
-🌱 Actively contributing to projects and improving problem-solving skills  
-🛠️ Enhancing backend performance & security  
+🔹 Strong experience in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🔹 Hands-on backend development with **PHP & MySQL**  
+🔹 Proficient in **Java** with solid knowledge of **Data Structures & Algorithms (DSA)**  
+🔹 Active on GitHub and eager to contribute to **open-source projects**
 
 ---
 
-## 📫 Connect With Me  
-📬 **Email:** sakshipawar72004@gmail.com  
+## 🎯 Areas I'm Currently Exploring  
+🚀 Advanced **React & MERN architecture**  
+🤖 Integrating **AI-powered features** into web applications  
+⚙️ Backend optimization & **RESTful API** design  
+🌱 Open-source contributions & community learning  
+
+---
+
+## 📩 How to Reach Me  
+📧 **Email:** sakshipawar72004@gmail.com  
 🌐 **GitHub:** https://github.com/Sakshi72004  
 💼 **LinkedIn:** https://www.linkedin.com/in/SakshiiPawar07/  
 
@@ -33,50 +39,3 @@ I'm a passionate **Computer Engineering student** who loves building **scalable,
 ![Profile Views](https://komarev.com/ghpvc/?username=Sakshi72004&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-
-## 💻 Tech Stack  
-
-### 🖥️ Languages  
-C • C++ • Java • Python • PHP • JavaScript • HTML5 • CSS3  
-
----
-
-### ⚡ Frontend Frameworks / Libraries  
-React.js • Tailwind CSS • Bootstrap • EJS  
-
----
-
-### ⚡ Backend Frameworks / Tools  
-Node.js • Express.js • PHP • JWT  
-
----
-
-### 📊 Databases  
-MySQL • MongoDB  
-
----
-
-### ☁️ Cloud / Hosting / Dev Tools  
-Git • GitHub • Vercel • Netlify  
-
----
-
-### 📦 Package Managers / Tools  
-NPM • Nodemon • Vite  
-
----
-
-### 🌐 CMS / Platforms  
-WordPress  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi72004&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi72004&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-⭐ *If you like my work, feel free to star my repositories and connect with me!* ⭐

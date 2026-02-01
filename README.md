@@ -36,11 +36,6 @@ I’m a passionate **Computer Engineering student** focused on building **robust
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Sakshi72004&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ## 💻 Languages & Tools  
 
 
@@ -48,8 +43,4 @@ I’m a passionate **Computer Engineering student** focused on building **robust
 
 --
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi72004&show_icons=true&theme=tokyonight"/>
-</p>
 
